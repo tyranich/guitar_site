@@ -14,8 +14,6 @@ body {
   color: #444444;
 }
 
-
-
 a {
   color: #34b7a7;
   text-decoration: none;
@@ -423,7 +421,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/img/hero-bg.jpg") top right;
+  background-image: url("../img/hero-bg2.jpg");;
   background-size: cover;
 }
 
@@ -443,11 +441,11 @@ h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #222222;
+  color: #FF6347;
 }
 
 #hero h2 {
-  color: #6f6f6f;
+  color: #FFA07A;
   margin: 10px 0 0 0;
   font-size: 22px;
 }
@@ -464,7 +462,7 @@ h6 {
   transition: 0.5s;
   margin-top: 30px;
   color: #fff;
-  background: #34b7a7;
+  background: #FFB6C1;
 }
 
 #hero .btn-about:hover {
